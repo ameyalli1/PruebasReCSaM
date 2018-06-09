@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Proyecto.Movil"
+             x:Class="Proyecto.Movil.Calidad3">
+    <StackLayout Orientation="Vertical">
+
+        <Label Text="ReCSaM" HorizontalOptions="Center"/>
+
+        <StackLayout Orientation="Vertical" >
+            <Label Text="Pregunta 5" />
+        </StackLayout>
+
+
+        <StackLayout Orientation="Vertical">
+            <Label Text=" Las siguientes preguntas califíquelas del 1 al 5, donde 5 es la mayor calificasión y 1 la menor" />
+        </StackLayout>
+
+
+
+       
+       
+        <StackLayout Orientation="Vertical">
+            <Label Text="La relación precio/calidad del servicio es:" />
+            <Button x:Name="radMuyBuenoCinco" Text="5"/>
+            <Button x:Name="radBuenoCinco" Text="4"/>
+            <Button x:Name="radRegularCinco" Text="3"/>
+            <Button x:Name="radMaloCinco" Text="2"/>
+            <Button x:Name="radMuyMaloCinco" Text="1"/>
+        </StackLayout>
+        <StackLayout Orientation="Vertical">
+            <Label Text="Las intalaciones fisicas son vialmente atractivas" />
+            <Button x:Name="radMuyBuenoSeis" Text="5"/>
+            <Button x:Name="radBuenoSeis" Text="4"/>
+            <Button x:Name="radRegularSeis" Text="3"/>
+            <Button x:Name="radMaloSeis" Text="2"/>
+            <Button x:Name="radMuyMaloSeis" Text="1"/>
+        </StackLayout>
+       
+
+
+
+
+
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="btnSiguiente" BackgroundColor="Orange" Text="Siguiente "></Button>
+        </StackLayout>
+
+
+    </StackLayout>
+</ContentPage>

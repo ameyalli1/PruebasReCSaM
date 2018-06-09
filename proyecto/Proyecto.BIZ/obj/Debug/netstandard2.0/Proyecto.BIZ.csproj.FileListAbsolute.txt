@@ -1,0 +1,94 @@
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.deps.json
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.dll
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.AssemblyInfoInputs.cache
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.AssemblyInfo.cs
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.pdb
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.dll
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.pdb
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.COMMON.dll
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.COMMON.pdb
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\prog\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.deps.json
+C:\prog\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.dll
+C:\prog\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.pdb
+C:\prog\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.COMMON.dll
+C:\prog\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\prog\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.COMMON.pdb
+C:\prog\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\prog\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csprojResolveAssemblyReference.cache
+C:\prog\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csproj.CoreCompileInputs.cache
+C:\prog\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.AssemblyInfoInputs.cache
+C:\prog\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.AssemblyInfo.cs
+C:\prog\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.dll
+C:\prog\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.pdb
+C:\Users\Laura\Desktop\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.deps.json
+C:\Users\Laura\Desktop\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.dll
+C:\Users\Laura\Desktop\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.pdb
+C:\Users\Laura\Desktop\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.COMMON.dll
+C:\Users\Laura\Desktop\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Laura\Desktop\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.COMMON.pdb
+C:\Users\Laura\Desktop\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Laura\Desktop\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.AssemblyInfoInputs.cache
+C:\Users\Laura\Desktop\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.AssemblyInfo.cs
+C:\Users\Laura\Desktop\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.dll
+C:\Users\Laura\Desktop\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.deps.json
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.COMMON.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.COMMON.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.AssemblyInfoInputs.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.AssemblyInfo.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csproj.CopyComplete
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.deps.json
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.COMMON.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.COMMON.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.AssemblyInfoInputs.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.AssemblyInfo.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csproj.CopyComplete
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.deps.json
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.COMMON.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.COMMON.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.AssemblyInfoInputs.cache
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.AssemblyInfo.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csproj.CopyComplete
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.pdb
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.deps.json
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.BIZ.pdb
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.COMMON.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.COMMON.pdb
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\bin\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.AssemblyInfoInputs.cache
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.AssemblyInfo.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.BIZ\obj\Debug\netstandard2.0\Proyecto.BIZ.pdb

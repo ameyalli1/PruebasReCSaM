@@ -1,0 +1,36 @@
+﻿<Window x:Class="Proyecto.GUI.EncuestaFormulario"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyecto.GUI"
+        mc:Ignorable="d"
+        Title="Encuesta" Height="350" Width="515">
+    <Grid Background="#FFE8F4FF">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="42*"/>
+            <ColumnDefinition Width="127*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="78*"/>
+            <RowDefinition Height="179*"/>
+            <RowDefinition Height="62*"/>
+        </Grid.RowDefinitions>
+        <WrapPanel Grid.Column="0" Grid.Row="1" Orientation="Vertical" HorizontalAlignment="Center" Margin="10,0" Width="106" Background="#FF72C7F0" >
+            <Label HorizontalAlignment="Center" FontWeight="Bold" FontSize="14" Width="103">PREGUNTA</Label>
+            <TextBox x:Name="txtNumeroPregunta" Width="50" HorizontalAlignment="Center" Height="30" Background="{x:Null}" BorderBrush="{x:Null}" FontWeight="Bold" Foreground="#FF01041F"></TextBox>
+            <TextBox x:Name="txtIDMesero" IsReadOnly="True" Width="2" Foreground="{x:Null}" Background="{x:Null}" BorderBrush="{x:Null}"></TextBox>
+            <TextBox x:Name="txtIDEncuesta" IsReadOnly="True" Width="2" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}"></TextBox>
+        </WrapPanel>
+        <TextBox Grid.Column="1" Grid.Row="0" Margin="20,5"  x:Name="txtPregunta" BorderBrush="{x:Null}" FontSize="14" Foreground="#FF010311" Background="#FF72C7F0" ></TextBox>
+
+        <ListView Grid.Column="1" Grid.Row="1" Margin="20,10,20,37" x:Name="listCajaRespuestas"  MouseDoubleClick="listCajaRespuestas_MouseDoubleClick" Background="#FF72C7F0" BorderBrush="{x:Null}"></ListView>
+
+        <WrapPanel Grid.Column="1" Grid.Row="2" HorizontalAlignment="Right"  Margin="0,15,15,15" Width="84">
+            <Button x:Name="btnSiguiente" Click="btnSiguiente_Click">
+                <Image Source="/Imagenes/topic_go_next.gif" Height="25" Width="80"></Image>
+            </Button>
+        </WrapPanel>
+        
+    </Grid>
+</Window>

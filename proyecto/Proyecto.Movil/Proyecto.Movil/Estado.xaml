@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Proyecto.Movil"
+             x:Class="Proyecto.Movil.Estado">
+    <StackLayout Orientation="Vertical">
+
+        <Label Text="ReCSaM" HorizontalOptions="Center"/>
+
+        <StackLayout Orientation="Vertical" >
+            <Label Text="Pregunta 2" />
+        </StackLayout>
+
+
+        <StackLayout Orientation="Vertical">
+            <Label Text="Estado Civil" />
+        </StackLayout>
+
+
+
+        <StackLayout Orientation="Vertical">
+            <Button  Text="Soltero" x:Name="radSoltero" />
+            <Button  Text="Casado" x:Name="radCasado" />
+            <Button  Text="Divorciado" x:Name="radDivorciado" />
+            <Button  Text="Viudo" x:Name="radViudi" />
+            
+
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="btnSiguieente" BackgroundColor="Orange" Text="Siguiente "></Button>
+        </StackLayout>
+
+
+    </StackLayout>
+</ContentPage>

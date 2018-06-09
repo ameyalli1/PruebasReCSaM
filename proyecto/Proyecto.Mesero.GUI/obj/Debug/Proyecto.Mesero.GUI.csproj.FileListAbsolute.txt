@@ -1,0 +1,45 @@
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\bin\Debug\Proyecto.Mesero.GUI.exe.config
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\bin\Debug\Proyecto.Mesero.GUI.exe
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\bin\Debug\Proyecto.Mesero.GUI.pdb
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\bin\Debug\LiteDB.dll
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\bin\Debug\LiteDB.xml
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\obj\Debug\App.g.cs
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI_MarkupCompile.cache
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI_MarkupCompile.lref
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\obj\Debug\MainWindow.baml
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.g.resources
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.Properties.Resources.resources
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.csproj.GenerateResource.Cache
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.exe
+C:\Users\Laura\Desktop\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\Proyecto.Mesero.GUI.exe.config
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\Proyecto.Mesero.GUI.exe
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\Proyecto.Mesero.GUI.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\DnsClient.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\LiteDB.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\MongoDB.Bson.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\MongoDB.Driver.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\System.Buffers.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\DnsClient.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\LiteDB.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\MongoDB.Bson.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\MongoDB.Driver.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\obj\Debug\App.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI_MarkupCompile.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI_MarkupCompile.lref
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\obj\Debug\MainWindow.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.g.resources
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.Properties.Resources.resources
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.csproj.GenerateResource.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.csproj.CopyComplete
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.exe
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.Mesero.GUI\obj\Debug\Proyecto.Mesero.GUI.pdb

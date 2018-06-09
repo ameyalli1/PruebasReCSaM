@@ -1,0 +1,56 @@
+﻿<Window x:Class="Proyectos.Administrador.GUI.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyectos.Administrador.GUI"
+        mc:Ignorable="d"
+        Title="ReCSaM Login" Height="450" Width="320">
+
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+            <GradientStop Color="Black"/>
+            <GradientStop Color="#FF3C91E6" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Border Background="White" CornerRadius="20" Margin="20">
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" Height="120" Width="120" Margin="15">
+                <Label.Background>
+                    <ImageBrush ImageSource="Imagenes/lagoReCSaM.png"/>
+                </Label.Background>
+            </Label>
+            <StackPanel Grid.Column="0" Grid.Row="1" Orientation="Vertical" HorizontalAlignment="Center" Margin="2">
+                <Label FontWeight="Bold">Empresa</Label>
+                <ComboBox x:Name="cmbEmpresa"  Height="32" Width="207"  Margin="3" FontWeight="Bold"/>
+                <Label FontWeight="Bold">Contraseña</Label>
+            </StackPanel>
+            <TextBox x:Name="txtContrasenaLabel" Grid.Column="0" Grid.Row="2"  Height="25" Width="160"  Margin="3"></TextBox>
+            <PasswordBox x:Name="txtContrasena" Grid.Column="0" Grid.Row="2"  Height="25"  Margin="30,7,56,7" FontWeight="Bold"/>
+            <CheckBox x:Name="cheVisualizarContrasena" Click="cheVisualizarContrasena_Click" HorizontalAlignment="Right" Grid.Column="0" Grid.Row="2"  Height="15" Margin="0,17,29,7" Width="25" RenderTransformOrigin="-0.08,0.867"></CheckBox>
+
+            <StackPanel Margin="8" Grid.Row="3" Grid.Column="0" Orientation="Horizontal">
+                <Button Margin="76,7,76,0"  Width="120"  Height="Auto" x:Name="btnIngresar" Click="btnIngresar_Click"  >
+                    <StackPanel Orientation="Horizontal">
+                        <Label >Ingresar</Label>
+                        <Image Width="16" Source="/Imagenes/door_in.png"  ></Image>
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+
+            <StackPanel Grid.Column="0" Grid.Row="4" HorizontalAlignment="Center" Orientation="Horizontal">
+                <Button x:Name="BtnRegistro" FontSize="10" Click="BtnRegistro_Click" FontWeight="Bold" Background="{x:Null}" BorderBrush="{x:Null}" Content="No cuenta con ninguna cuenta. Registrese" Margin="0,0,0,2" Foreground="Black"/>
+            </StackPanel>
+
+
+        </Grid>
+    </Border>
+</Window>

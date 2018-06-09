@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Proyecto.Movil"
+             x:Class="Proyecto.Movil.Edad">
+    <StackLayout Orientation="Vertical">
+
+        <Label Text="ReCSaM" HorizontalOptions="Center"/>
+
+        <StackLayout Orientation="Vertical" >
+            <Label Text="Pregunta 1" />
+        </StackLayout>
+
+
+        <StackLayout Orientation="Vertical">
+            <Label Text="Induque su rango de edad." />
+        </StackLayout>
+
+
+
+        <StackLayout Orientation="Vertical">
+            <Button  Text="18 a 24 años" x:Name="rad18" />
+            <Button  Text="25 a 34 años" x:Name="rad25" />
+            <Button  Text="35 a 44 años" x:Name="rad35" />
+            <Button  Text="45 a 54 años" x:Name="rad45" />
+            <Button  Text="55 a 64 años" x:Name="rad55" />
+            <Button  Text="65 a 74 años" x:Name="rad65" />
+            <Button  Text="Más de 75 años" x:Name="rad75" />
+            
+
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="btnSiguiente" BackgroundColor="Orange" Text="Siguiente "></Button>
+        </StackLayout>
+
+
+    </StackLayout>
+
+</ContentPage>

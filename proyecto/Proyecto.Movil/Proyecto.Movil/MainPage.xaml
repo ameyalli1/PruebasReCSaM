@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Proyecto.Movil"
+             x:Class="Proyecto.Movil.MainPage">
+             
+    <StackLayout Orientation="Vertical">
+        
+        <Label Text="ReCSaM" HorizontalOptions="Center"/>
+
+        <StackLayout Orientation="Vertical" >
+            <Label Text="Empresa" />
+            <Picker x:Name="cmbEmpresa" >  </Picker>
+        </StackLayout>
+
+        
+        <StackLayout Orientation="Vertical">
+            <Label Text="Usuario:" />
+            <Picker x:Name="cmbUsuario" />
+        </StackLayout>
+
+        <StackLayout Orientation="Vertical">
+          
+            <Label Text="Contraceña:" />
+            <Entry x:Name="passPasword" Placeholder="Contraceña"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Vertical">
+            <Button x:Name="btnIngresar" BackgroundColor="Orange" Text="Ingresar"></Button>
+        </StackLayout>
+        
+      
+    </StackLayout>
+
+</ContentPage>

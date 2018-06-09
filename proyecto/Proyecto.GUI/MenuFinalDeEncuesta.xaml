@@ -1,0 +1,34 @@
+﻿<Window x:Class="Proyecto.GUI.MenuFinalDeEncuesta"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyecto.GUI"
+        mc:Ignorable="d"
+        Title="Encuesta" Height="350" Width="515">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="253*"/>
+            <ColumnDefinition Width="254*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="79*"/>
+            <RowDefinition Height="79*"/>
+            <RowDefinition Height="64*"/>
+            <RowDefinition Height="97*"/>
+        </Grid.RowDefinitions>
+        <Label Margin="110,15,109,5" HorizontalAlignment="Center" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Foreground="#FF1D0E0E" FontSize="18" FontWeight="Bold" Width="288">Gracias por contestar la encuesta</Label>
+        <Label Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2">Dale mas Explicacion: Los datos obtenidos seran ....Procura darle enter a la label</Label>
+        <Label Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Center" >Logo Agregar</Label>
+        <Button Grid.Column="0" Grid.Row="3" Height="45" Width="50" Background="{x:Null}" Foreground="{x:Null}" BorderBrush="{x:Null}" ToolTip="Reiniciar" x:Name="btnReiniciar" Click="btnReiniciar_Click">
+            <StackPanel>
+                <Image Source="/Imagenes/arrow_rotate_clockwise.png" Height="50" Width="35"></Image>
+            </StackPanel>
+        </Button>
+        <Button Grid.Column="1" Grid.Row="3" Height="45" Width="50" Background="{x:Null}" Foreground="{x:Null}" BorderBrush="{x:Null}" ToolTip="Menú" x:Name="btnMenu" Click="btnMenu_Click">
+            <StackPanel>
+                <Image Source="/Imagenes/application_form.png" Height="50" Width="35"></Image>
+            </StackPanel>
+        </Button>
+    </Grid>
+</Window>

@@ -1,0 +1,47 @@
+﻿<Window x:Class="Proyectos.Mesero.GUI.EREdad"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyectos.Mesero.GUI"
+          mc:Ignorable="d"
+        Title="Encuesta" Height="400" Width="660">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+            <GradientStop Color="Black"/>
+            <GradientStop Color="#FF3C91E6" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Border Background="White" CornerRadius="20" Margin="20">
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="116*"/>
+                <ColumnDefinition Width="209*"/>
+                <ColumnDefinition Width="327*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="94*"/>
+                <RowDefinition Height="216*"/>
+                <RowDefinition Height="59*"/>
+            </Grid.RowDefinitions>
+
+            <TextBox x:Name="txtNombreEmpleado" Width="300" Height="30" Grid.Column="0" Grid.ColumnSpan="2" Margin="10" Grid.Row="1" HorizontalAlignment="Right" Background="{x:Null}" FontSize="16" BorderBrush="{x:Null}"></TextBox>
+            <TextBox x:Name="txtNombreEmpresa" Width="300" Height="30" Grid.Column="0" Grid.ColumnSpan="2" Margin="10" Grid.Row="1" HorizontalAlignment="Right" Background="{x:Null}" FontSize="16" BorderBrush="{x:Null}"></TextBox>
+
+            <Label Grid.Column="0" Margin="10,25,0,25" FontSize="16" FontWeight="Bold" >Pregunta 1</Label>
+            <Label Grid.Column="1" Grid.ColumnSpan="2" Margin="10, 25, 0, 25" FontSize="18" Content="Indique su rango de edad."/>
+            <WrapPanel Grid.Column="1" Grid.ColumnSpan="2" Orientation="Vertical" Margin="0,74,0,0" Grid.RowSpan="2">
+                <RadioButton  x:Name="rad18" Margin="5" FontSize="16">18 a 24 años</RadioButton>
+                <RadioButton  x:Name="rad25" Margin="5" FontSize="16">25 a 34 años</RadioButton>
+                <RadioButton  x:Name="rad35" Margin="5" FontSize="16">35 a 44 años</RadioButton>
+                <RadioButton  x:Name="rad45" Margin="5" FontSize="16">45 a 54 años</RadioButton>
+                <RadioButton  x:Name="rad55" Margin="5" FontSize="16">55 a 64 años</RadioButton>
+                <RadioButton  x:Name="rad65" Margin="5" FontSize="16">65 a 74 años</RadioButton>
+                <RadioButton  x:Name="rad75" Margin="5" FontSize="16">Más de 75 años</RadioButton>
+            </WrapPanel>
+            <Button x:Name="btnSiguiente" Click="btnSiguiente_Click" Grid.Column="2" Grid.Row="2" Height="30" Width="120">Siguiente</Button>
+        </Grid>
+    </Border>
+</Window>
+

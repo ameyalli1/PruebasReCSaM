@@ -1,0 +1,80 @@
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.deps.json
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.AssemblyInfoInputs.cache
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.AssemblyInfo.cs
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.COMMON.dll
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.COMMON.pdb
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Laura\Desktop\facial\proyecto\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\prog\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.deps.json
+C:\prog\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\prog\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\prog\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.COMMON.dll
+C:\prog\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.COMMON.pdb
+C:\prog\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csprojResolveAssemblyReference.cache
+C:\prog\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csproj.CoreCompileInputs.cache
+C:\prog\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.AssemblyInfoInputs.cache
+C:\prog\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.AssemblyInfo.cs
+C:\prog\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\prog\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Laura\Desktop\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.deps.json
+C:\Users\Laura\Desktop\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Laura\Desktop\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Laura\Desktop\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.COMMON.dll
+C:\Users\Laura\Desktop\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.COMMON.pdb
+C:\Users\Laura\Desktop\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.AssemblyInfoInputs.cache
+C:\Users\Laura\Desktop\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.AssemblyInfo.cs
+C:\Users\Laura\Desktop\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Laura\Desktop\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.deps.json
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.COMMON.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.COMMON.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.AssemblyInfoInputs.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.AssemblyInfo.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csproj.CopyComplete
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.deps.json
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.COMMON.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.COMMON.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.AssemblyInfoInputs.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.AssemblyInfo.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csproj.CopyComplete
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.deps.json
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.COMMON.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.COMMON.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.AssemblyInfoInputs.cache
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.AssemblyInfo.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csproj.CopyComplete
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.deps.json
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.DAL.pdb
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.COMMON.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\bin\Debug\netstandard2.0\Proyecto.COMMON.pdb
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.AssemblyInfoInputs.cache
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.AssemblyInfo.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyecto.DAL\obj\Debug\netstandard2.0\Proyecto.DAL.pdb

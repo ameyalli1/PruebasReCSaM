@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:local="clr-namespace:Proyecto.Movil"
+             x:Class="Proyecto.Movil.Politicas">
+    <StackLayout Orientation="Vertical">
+
+        <Label Text="ReCSaM" HorizontalOptions="Center"/>
+
+        <StackLayout Orientation="Vertical">
+            <Label Text="ReCSaM es una aplicación que conjuga el reconocimiento facial con&#xD;&#xA;modelos de calidad en el servicio permitiendo al empresario conocer &#xD;&#xA;el grado de satisfacción de los clientes. Simultáneamente el software &#xD;&#xA;realizará un reconocimiento de las expresiones faciales durante la &#xD;&#xA;aplicación de la encuesta tomando tres fotografías, las cuales no se &#xD;&#xA;almacenarán solo se tomarán los datos obtenidos para su posterior &#xD;&#xA;análisis junto con las respuestas." />
+        </StackLayout>
+
+
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="btnCerrar" BackgroundColor="Orange" Text="Cerrar"></Button>
+        </StackLayout>
+
+
+    </StackLayout>
+
+</ContentPage>

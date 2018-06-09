@@ -1,0 +1,711 @@
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.exe.config
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\EncuestaRecomendada.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERCalidad.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREdad.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREstado.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFinalEncuesta.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuencia.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuenciaServicios.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Inicioss.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuPrincipal.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Recomendacion.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\VerPoliticas.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\App.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI_MarkupCompile.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI_MarkupCompile.lref
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Mesero.GUI.exe.config
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Mesero.GUI.exe
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Mesero.GUI.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\netstandard.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.AppContext.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Console.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Data.Common.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Globalization.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.Compression.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Http.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Ping.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Requests.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Security.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ObjectModel.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Reflection.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Claims.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Principal.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.BIZ.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.COMMON.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.DAL.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Administrador.GUI.exe
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Bson.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.BIZ.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.COMMON.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.DAL.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Administrador.GUI.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Administrador.GUI.exe.config
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Bson.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\EncuestaRecomendada.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERCalidad.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREdad.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREstado.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFinalEncuesta.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuencia.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuenciaServicios.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Inicioss.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\MainWindow.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuPrincipal.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Recomendacion.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\VerPoliticas.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.g.resources
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.Properties.Resources.resources
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csproj.GenerateResource.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csproj.CopyComplete
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.exe
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\DnsClient.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Buffers.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\DnsClient.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuAmbu.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\App.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuAmbu.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Mesero.GUI.exe.config
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Mesero.GUI.exe
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Mesero.GUI.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\netstandard.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.AppContext.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Console.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Data.Common.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Globalization.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.Compression.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Http.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Ping.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Requests.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Security.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ObjectModel.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Reflection.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Claims.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Principal.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\DnsClient.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Bson.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.BIZ.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.COMMON.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.DAL.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Administrador.GUI.exe
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Buffers.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.BIZ.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.COMMON.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.DAL.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Administrador.GUI.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Administrador.GUI.exe.config
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\DnsClient.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Bson.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.exe.config
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\EncuestaRecomendada.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERCalidad.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREdad.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREstado.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFinalEncuesta.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuencia.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuenciaServicios.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Inicioss.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuAmbu.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuPrincipal.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Recomendacion.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\VerPoliticas.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\App.g.cs
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI_MarkupCompile.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI_MarkupCompile.lref
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\App.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\EncuestaRecomendada.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERCalidad.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREdad.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREstado.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFinalEncuesta.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuencia.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuenciaServicios.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Inicioss.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\MainWindow.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuAmbu.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuPrincipal.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Recomendacion.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\VerPoliticas.baml
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.g.resources
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.Properties.Resources.resources
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csproj.GenerateResource.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csproj.CopyComplete
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.exe
+C:\Users\Daniela\Desktop\Nueva carpeta\proyecto-2\ReCSaM_Listo\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Mesero.GUI.exe.config
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Mesero.GUI.exe
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Mesero.GUI.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\netstandard.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.AppContext.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Console.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Data.Common.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Globalization.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.Compression.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Http.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Ping.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Requests.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Security.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ObjectModel.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Reflection.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Claims.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Principal.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\DnsClient.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignColors.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Bson.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.BIZ.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.COMMON.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.DAL.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Administrador.GUI.exe
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Buffers.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.BIZ.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.COMMON.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.DAL.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Administrador.GUI.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Administrador.GUI.exe.config
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\DnsClient.xml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Bson.xml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.xml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csprojResolveAssemblyReference.cache
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.exe.config
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\EncuestaRecomendada.g.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERCalidad.g.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREdad.g.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREstado.g.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFinalEncuesta.g.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuencia.g.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuenciaServicios.g.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Inicioss.g.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuAmbu.g.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuPrincipal.g.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Recomendacion.g.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\VerPoliticas.g.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\App.g.cs
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI_MarkupCompile.cache
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI_MarkupCompile.lref
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\App.baml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\EncuestaRecomendada.baml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERCalidad.baml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREdad.baml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREstado.baml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFinalEncuesta.baml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuencia.baml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuenciaServicios.baml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Inicioss.baml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\MainWindow.baml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuAmbu.baml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuPrincipal.baml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Recomendacion.baml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\VerPoliticas.baml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.g.resources
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.Properties.Resources.resources
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csproj.GenerateResource.cache
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csproj.CopyComplete
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.exe
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.pdb
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Mesero.GUI.exe.config
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Mesero.GUI.exe
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Mesero.GUI.pdb
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\netstandard.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.AppContext.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Console.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Data.Common.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Globalization.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.Compression.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.Pipes.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Http.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Ping.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Primitives.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Requests.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Security.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.Sockets.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ObjectModel.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Reflection.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Resources.Reader.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Resources.Writer.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Claims.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.Principal.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Security.SecureString.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Text.Encoding.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Thread.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Threading.Timer.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XPath.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\DnsClient.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\ExifLib.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignColors.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Bson.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.BIZ.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.COMMON.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.DAL.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Administrador.GUI.exe
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\System.Buffers.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\XLabs.Core.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\XLabs.Ioc.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\XLabs.Serialization.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.BIZ.pdb
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.COMMON.pdb
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyecto.DAL.pdb
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Administrador.GUI.pdb
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Proyectos.Administrador.GUI.exe.config
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\DnsClient.xml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Bson.xml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.xml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\XLabs.Core.xml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\XLabs.Ioc.xml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\XLabs.Serialization.xml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.exe.config
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\EncuestaRecomendada.g.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERCalidad.g.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREdad.g.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREstado.g.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFinalEncuesta.g.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuencia.g.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuenciaServicios.g.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Inicioss.g.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuAmbu.g.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuPrincipal.g.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Recomendacion.g.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\VerPoliticas.g.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\App.g.cs
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI_MarkupCompile.cache
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI_MarkupCompile.lref
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\App.baml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\EncuestaRecomendada.baml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERCalidad.baml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREdad.baml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\EREstado.baml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFinalEncuesta.baml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuencia.baml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\ERFrecuenciaServicios.baml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Inicioss.baml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\MainWindow.baml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuAmbu.baml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\MenuPrincipal.baml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Recomendacion.baml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\VerPoliticas.baml
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.g.resources
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.Properties.Resources.resources
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csproj.GenerateResource.Cache
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.exe
+C:\Users\Laura\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\obj\Debug\Proyectos.Mesero.GUI.pdb
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\ExifLib.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\XLabs.Core.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\XLabs.Ioc.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\XLabs.Serialization.dll
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\XLabs.Core.xml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\XLabs.Ioc.xml
+C:\Users\Daniela\Desktop\LL_ReCSaM\proyecto\Proyectos.Mesero.GUI\bin\Debug\XLabs.Serialization.xml

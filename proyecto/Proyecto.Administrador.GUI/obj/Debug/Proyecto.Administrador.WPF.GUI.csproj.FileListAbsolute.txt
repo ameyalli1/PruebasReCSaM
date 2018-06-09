@@ -1,0 +1,15 @@
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\bin\Debug\Proyecto.Administrador.GUI.exe.config
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\bin\Debug\Proyecto.Administrador.GUI.exe
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\bin\Debug\Proyecto.Administrador.GUI.pdb
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\obj\Debug\Proyecto.Administrador.WPF.GUI.csprojResolveAssemblyReference.cache
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\obj\Debug\Inicio.g.cs
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\obj\Debug\App.g.cs
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\obj\Debug\Proyecto.Administrador.GUI_MarkupCompile.cache
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\obj\Debug\Proyecto.Administrador.GUI_MarkupCompile.lref
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\obj\Debug\Inicio.baml
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\obj\Debug\Proyecto.Administrador.GUI.g.resources
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\obj\Debug\Proyecto.Administrador.GUI.Properties.Resources.resources
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\obj\Debug\Proyecto.Administrador.WPF.GUI.csproj.GenerateResource.Cache
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\obj\Debug\Proyecto.Administrador.WPF.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\obj\Debug\Proyecto.Administrador.GUI.exe
+C:\Users\Laura\Desktop\proyecto\Proyecto.Administrador.GUI\obj\Debug\Proyecto.Administrador.GUI.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Proyecto.Movil"
+             x:Class="Proyecto.Movil.Encuestar">
+    <StackLayout Orientation="Vertical">
+
+        <Label Text="ReCSaM" HorizontalOptions="Center"/>
+
+        <StackLayout Orientation="Vertical" >
+            <Label Text="Objetivo" />
+        </StackLayout>
+
+
+        <StackLayout Orientation="Vertical">
+            <Label Text="Por Favor, dedique unos minutos a completar esta pequeña encuesta.&#xA;&#xA;Sus respuestas serán tratadas de forma confidencial y serán utilizadas únicamente&#xD;&#xA;para mejorar el servicio que le proporcionamos" />
+        </StackLayout>
+
+        
+
+        <StackLayout Orientation="Vertical">
+            <Button x:Name="btnSiguiente" BackgroundColor="Orange" Text="Siguiente "></Button>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="btnVerPoliticas" BackgroundColor="Orange" Text="Politicas de Privacidad "></Button>
+        </StackLayout>
+
+        
+    </StackLayout>
+
+    
+</ContentPage>

@@ -1,0 +1,35 @@
+﻿<Window x:Class="Proyectos.Administrador.GUI.Inicio"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyectos.Administrador.GUI"
+        mc:Ignorable="d"
+        Title="ReCSaM" Height="500" Width="600" >
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+            <GradientStop Color="Black"/>
+            <GradientStop Color="#FF3C91E6" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Border Background="White" CornerRadius="20" Margin="20">
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+            <Label Height="350" Margin="121,22,121,10" >
+                <Label.Background>
+                    <ImageBrush ImageSource="Imagenes/lagoReCSaM.png"/>
+                </Label.Background>
+            </Label>
+            <WrapPanel Grid.Column="0" Grid.Row="1" HorizontalAlignment="Center" Margin="7,0,0,0" Width="545">
+                <ProgressBar  x:Name="progBarraDeDesplazamiento" Margin="10" Height="23" Width="519" Background="#FF6AACEE"  />
+            </WrapPanel>
+            <TextBox Name="txtBarra" Width="150" Height="25" Grid.Column="0" Grid.Row="2"  ></TextBox>
+        </Grid>
+    </Border>
+</Window>

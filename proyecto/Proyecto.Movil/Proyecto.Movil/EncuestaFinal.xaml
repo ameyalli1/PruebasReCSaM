@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:local="clr-namespace:Proyecto.Movil"
+             x:Class="Proyecto.Movil.EncuestaFinal">
+    <StackLayout Orientation="Vertical">
+
+        <Label Text="ReCSaM" HorizontalOptions="Center"/>
+
+        <StackLayout Orientation="Vertical" >
+            <Label Text="Gracias por contestar nuestra encuesta, esto ayuda a brindar un mejor &#xD;&#xA;servicio y poder crecer como empresa." />
+        </StackLayout>
+
+
+        
+
+
+        
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="btnTerminar" BackgroundColor="Orange" Text="Terminar "></Button>
+        </StackLayout>
+
+
+    </StackLayout>
+</ContentPage>

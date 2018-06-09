@@ -1,0 +1,54 @@
+﻿<Window x:Class="Proyecto.GUI.Encuestas"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Proyecto.GUI"
+        mc:Ignorable="d"
+        Title="Encuesta" Height="350" Width="615">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="227*"/>
+            <ColumnDefinition Width="380*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" MinHeight="248"/>
+            <RowDefinition Height="auto" MinHeight="66"/>
+            <RowDefinition Height="auto" MinHeight="4"/>
+        </Grid.RowDefinitions>
+        <WrapPanel Grid.Column="0" Grid.Row="0">
+            <Label>Logos o cosas que se vean bonitas aca</Label>
+        </WrapPanel>
+        <WrapPanel Orientation="Horizontal" Width="320" HorizontalAlignment="Center"  Grid.Column="1" Margin="30,0">
+            <StackPanel Grid.Row="0" Orientation="Horizontal">
+                <Label Width="90" >Empresa:</Label>
+                <ComboBox x:Name="CmbEmpresaEncuesta" Width="220" Margin="2"></ComboBox>
+            </StackPanel>
+            <StackPanel Grid.Row="0" Orientation="Horizontal">
+                <Label Width="90">Nombre:</Label>
+                <ComboBox x:Name="CmbNombreEncuesta" Width="220" Margin="2"></ComboBox>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Orientation="Horizontal">
+                <Label Width="90">Dueño:</Label>
+                <TextBox x:Name="txtDuenoEncuesta" Width="220" Margin="2"></TextBox>
+            </StackPanel>
+            <StackPanel Grid.Row="2" Orientation="Horizontal">
+                <Label Width="90">Objetivo:</Label>
+                <TextBox x:Name="txtObjetivoEncuesta" Width="220" Height="80" Margin="2"></TextBox>
+            </StackPanel>
+            <StackPanel Grid.Row="2" Orientation="Horizontal">
+                <Label Width="90">Password:</Label>
+                <PasswordBox x:Name="txtPasswordEncuesta" Width="220" Margin="2"></PasswordBox>
+            </StackPanel>
+        </WrapPanel>
+        <Button Height="30" Grid.Row="1"  HorizontalAlignment="Center" Width="80" Grid.Column="1" x:Name="EntrarEncuesta" Click="EntrarEncuesta_Click" >
+            <StackPanel>
+                <Label>Entrar</Label>
+            </StackPanel>
+        </Button>
+        <Button Grid.Column="0" Grid.Row="1" Width="50" x:Name="btnConfiguracion" Click="btnConfiguracion_Click" Margin="33,17,0,17" HorizontalAlignment="Left" Height="33" BorderBrush="#FF474545" Background="{x:Null}">
+            <Image Source="/Imagenes/cog.png" Height="30" Width="32"></Image>
+        </Button>
+
+    </Grid>
+</Window>

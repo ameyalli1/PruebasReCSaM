@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Proyecto.Movil"
+             x:Class="Proyecto.Movil.FrecuenciaServicios">
+    <StackLayout Orientation="Vertical">
+
+        <Label Text="ReCSaM" HorizontalOptions="Center"/>
+
+        <StackLayout Orientation="Vertical" >
+            <Label Text="Pregunta 3" />
+        </StackLayout>
+
+
+        <StackLayout Orientation="Vertical">
+            <Label Text=" Frecuencia en que ha utilizado nuestros servicios" />
+        </StackLayout>
+
+
+
+        <StackLayout Orientation="Vertical">
+            <Button  Text="Primera vez" x:Name="radPrimera" />
+            <Button  Text="Segunda vez" x:Name="radSegunda" />
+            <Button  Text="Tercera vez" x:Name="radTecera" />
+            <Button  Text="Cautro o mas" x:Name="radCuarta" />
+            
+
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="btnSiguiente" BackgroundColor="Orange" Text="Siguiente "></Button>
+        </StackLayout>
+
+
+    </StackLayout>
+</ContentPage>
